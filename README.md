@@ -1,0 +1,2 @@
+# Red GTSRB HOG features
+
